@@ -3,6 +3,16 @@ const botaoBusca = document.querySelector("#botao-busca");
 const cardContainer = document.querySelector(".card-container");
 let dados = [];
 
+// Função para embaralhar o array usando o algoritmo Fisher-Yates
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            // Escolhe um índice aleatório de 0 a i
+            const j = Math.floor(Math.random() * (i + 1));
+            // Troca os elementos array[i] e array[j]
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+    }
+
 async function carregarDados() {
     try {
         const resposta = await fetch("data.json");
@@ -10,12 +20,15 @@ async function carregarDados() {
             throw new Error('Erro ao carregar o arquivo data.json');
         }
         dados = await resposta.json();
+        shuffleArray(dados); // Embaralha os dados
         renderizarCards(dados); // Renderiza todos os cards inicialmente
     } catch (erro) {
         console.error("Falha na requisição:", erro);
         cardContainer.innerHTML = `<p>Ocorreu um erro ao carregar as obras. Tente novamente mais tarde.</p>`;
     }
 }
+
+
 
 function iniciarBusca() {
     const termoBusca = campoBusca.value.toLowerCase();
