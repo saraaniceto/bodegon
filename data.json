@@ -1,0 +1,274 @@
+[
+  {
+    "nome": "Cesto de Frutas",
+    "descrição": "Considerada a primeira natureza-morta da história da arte italiana, a obra retrata frutas com um realismo impressionante, incluindo imperfeições, simbolizando a passagem do tempo.",
+    "autoria": "Caravaggio, c. 1599",
+    "link": "https://es.wikipedia.org/wiki/Cesto_con_frutas",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Canestra_di_frutta_%28Caravaggio%29.jpg/960px-Canestra_di_frutta_%28Caravaggio%29.jpg",
+    "tags": [ "frutas", "cesto", "realismo", "natureza-morta" ]
+  },
+  {
+    "nome": "Natureza-morta com Caveira e Pena de Escrever",
+    "descrição": "Uma pintura do gênero 'vanitas', que reflete sobre a transitoriedade da vida. A caveira, a pena e o copo tombado simbolizam a certeza da morte e a passagem do tempo.",
+    "autoria": "Pieter Claesz, 1628",
+    "link": "https://www.metmuseum.org/art/collection/search/435904",
+    "imagem": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/435904/795798/main-image",
+    "tags": [ "vanitas", "caveira", "livro", "morte", "tempo" ]
+  },
+  {
+    "nome": "Doze Girassóis numa Jarra",
+    "descrição": "Parte de uma famosa série, esta obra vibra com tons de amarelo, expressando a alegria e a esperança de Van Gogh durante sua estadia em Arles, no sul da França.",
+    "autoria": "Vincent van Gogh, 1889",
+    "link": "https://pt.wikipedia.org/wiki/Doze_Girass%C3%B3is_numa_Jarra",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Vincent_Willem_van_Gogh_128.jpg",
+    "tags": [ "flores", "girassol", "vaso", "amarelo", "impressionismo" ]
+  },
+  {
+    "nome": "A Cesta de Maçãs",
+    "descrição": "Cézanne desafia a perspectiva tradicional nesta obra, mostrando objetos de múltiplos ângulos. É uma ponte entre o Impressionismo e o Cubismo, focando na geometria das formas.",
+    "autoria": "Paul Cézanne, c. 1893",
+    "link": "https://en.wikipedia.org/wiki/The_Basket_of_Apples",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg/500px-Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg",
+    "tags": [ "frutas", "maçã", "cesto", "vinho", "perspectiva" ]
+  },
+  {
+    "nome": "Natureza-morta com Limões, Laranjas e uma Rosa",
+    "descrição": "Único bodegón assinado e datado pelo artista, a obra apresenta uma composição serena e ordenada, onde a luz destaca as texturas e volumes dos objetos com um toque de misticismo.",
+    "autoria": "Francisco de Zurbarán, 1633",
+    "link": "https://www.nortonsimon.org/art/detail/F.1972.06.P",
+    "imagem": "https://images.nortonsimon.org/iipsrv/iipsrv.fcgi?QLT=100&IIIF=F197206P.jpf/full/!668,1002/0/default.jpg",
+    "tags": [ "frutas", "limão", "laranja", "flor", "luz" ]
+  },
+  {
+    "nome": "Natureza-morta com Queijos, Amêndoas e Bolachas",
+    "descrição": "Clara Peeters, uma das poucas pintoras de naturezas-mortas do século XVII, demonstra sua maestria ao retratar diferentes texturas, como o queijo, o pão e os reflexos no metal.",
+    "autoria": "Clara Peeters, c. 1615",
+    "link": "https://www.mauritshuis.nl/en/our-collection/artworks/1203-still-life-with-cheeses-almonds-and-pretzels",
+    "imagem": "https://www.mauritshuis.nl/media/zmhpwry0/1203_repro.jpg?rxy=0.086185044359949309,0.70075681736275186&width=480&quality=70&v=1d82a2ff26cb670",
+    "tags": [ "comida", "queijo", "pão", "textura", "metal" ]
+  },
+  {
+    "nome": "Agnus Dei",
+    "descrição": "Significando 'Cordeiro de Deus', esta pintura é uma poderosa alegoria ao sacrifício de Cristo. O cordeiro, com as patas amarradas, é retratado com realismo e solenidade.",
+    "autoria": "Francisco de Zurbarán, c. 1635-1640",
+    "link": "https://en.wikipedia.org/wiki/Agnus_Dei_(Zurbar%C3%A1n)",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Francisco_de_Zurbar%C3%A1n_006.jpg/2560px-Francisco_de_Zurbar%C3%A1n_006.jpg",
+    "tags": [ "animal", "cordeiro", "sacrifício", "religião", "alegoria" ]
+  },
+  {
+    "nome": "Bodegón com Cacharros",
+    "descrição": "Uma composição simples e monumental de quatro objetos de cerâmica e metal. A luz tenebrista de Zurbarán realça as texturas e formas, transmitindo uma sensação de silêncio e paz.",
+    "autoria": "Francisco de Zurbarán, c. 1650",
+    "link": "https://www.museodelprado.es/coleccion/obra-de-arte/bodegon-con-cacharros/bdd71dfb-cde5-440e-87a2-48d8c64060dd",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bodeg%C3%B3n_de_recipientes_%28Zurbar%C3%A1n%29.jpg/2560px-Bodeg%C3%B3n_de_recipientes_%28Zurbar%C3%A1n%29.jpg",
+    "tags": [ "cerâmica", "vaso", "metal", "luz", "tenebrismo" ]
+  },
+  {
+    "nome": "Natureza-morta com uma Taça Dourada",
+    "descrição": "Heda era um mestre em 'banketjes' (pequenos-almoços) monocromáticos. A obra exibe objetos de luxo e restos de uma refeição, com um jogo sutil de luz e reflexos em tons contidos.",
+    "autoria": "Willem Claesz. Heda, 1635",
+    "link": "https://www.rijksmuseum.nl/en/collection/object/Still-Life-with-a-Gilt-Cup--4617db9a8506653eb2437fc6bde903fd/catalogue-entry",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Willem_Claesz._Heda_005.jpg/1532px-Willem_Claesz._Heda_005.jpg",
+    "tags": [ "luxo", "metal", "taça", "comida", "monocromático" ]
+  },
+  {
+    "nome": "Natureza-morta com Aves de Caça, Vegetais e Frutas",
+    "descrição": "Uma das primeiras naturezas-mortas espanholas, esta obra de Cotán apresenta os itens suspensos em um nicho, criando um efeito tridimensional e um realismo austero e geométrico.",
+    "autoria": "Juan Sánchez Cotán, 1602",
+    "link": "https://www.museodelprado.es/coleccion/obra-de-arte/bodegon-de-caza-hortalizas-y-frutas/91dfc698-786f-4680-ad73-3841988e7f4d",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Still_Life_with_Game_Fowl%2CVegetables_and_Fruits%2C_Prado%2C_Museum%2CMadrid%2C1602%2CHernaniCollection.jpg/2560px-Still_Life_with_Game_Fowl%2CVegetables_and_Fruits%2C_Prado%2C_Museum%2CMadrid%2C1602%2CHernaniCollection.jpg",
+    "tags": [ "caça", "vegetais", "frutas", "animal", "suspensão" ]
+  },
+  {
+    "nome": "Natureza-morta: Alegoria da Vaidade da Vida Humana",
+    "descrição": "Uma clássica vanitas holandesa que usa objetos simbólicos (caveira, lâmpada apagada, sabão) para refletir sobre a transitoriedade da vida e dos prazeres terrenos.",
+    "autoria": "Harmen Steenwyck, '1640'",
+    "link": "https://en.wikipedia.org/wiki/Still_Life:_An_Allegory_of_the_Vanities_of_Human_Life",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Harmen_Steenwijck_-_Allegory_of_the_Vanities_of_Human_Life.jpg",
+    "tags": [ "vanitas", "caveira", "objetos simbólicos", "livros", "relógio" ]
+  },
+  {
+    "nome": "Marmeleiro, Repolho, Melão e Pepino",
+    "descrição": "Um dos mais famosos bodegóns espanhóis, caracterizado pela austeridade, o uso de fundos escuros e a iluminação intensa focada nos vegetais e frutas suspensos.",
+    "autoria": "Juan Sánchez Cotán, '1602'",
+    "link": "https://en.wikipedia.org/wiki/Quince,_Cabbage,_Melon_and_Cucumber",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Quince%2C_Cabbage%2C_Melon_and_Cucumber_by_Juan_S%C3%A1nchez_Cot%C3%A1n.jpg",
+    "tags": [ "vegetais", "bodegón", "claro-escuro", "austeridade", "marmeleiro" ]
+  },
+  {
+    "nome": "Vaso com Quinze Girassóis",
+    "descrição": "Parte da famosa série de Arles, esta obra expressa a intensa paixão do artista pela cor amarela e pelo ciclo de vida das flores, retratando girassóis em plena floração e murchando.",
+    "autoria": "Vincent van Gogh, '1888'",
+    "link": "https://en.wikipedia.org/wiki/Sunflowers_(Van_Gogh_series)#Arles_series",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vincent_Willem_van_Gogh_102.jpg",
+    "tags": [ "flores", "girassóis", "amarelo", "expressionismo", "vaso" ]
+  },
+  {
+    "nome": "Natureza-morta com Maçãs e Laranjas",
+    "descrição": "Um exemplo chave da abordagem pós-impressionista de Cézanne, focando na solidez geométrica dos objetos e na construção do espaço através da cor e da pincelada modular.",
+    "autoria": "Paul Cézanne, '1899'",
+    "link": "https://en.wikipedia.org/wiki/Still_Life_with_Apples_and_Oranges_(C%C3%A9zanne)",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Still_Life_with_Apples_and_Oranges_%281899%29_by_Paul_C%C3%A9zanne.jpg",
+    "tags": [ "frutas", "maçãs", "laranjas", "pós-impressionismo", "geometria" ]
+  },
+  {
+    "nome": "Natureza-morta com Pão e Ostras",
+    "descrição": "Uma \"peça de café da manhã\" (ontbijtje) holandesa que demonstra a riqueza e o comércio da época, com objetos de luxo e alimentos finos dispostos sobre uma mesa.",
+    "autoria": "Willem Claesz Heda, '1634'",
+    "link": "https://en.wikipedia.org/wiki/Willem_Claesz_Heda",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Willem_Claesz._Heda_-_Still_Life_with_Oysters_and_Roemer_-_WGA11283.jpg",
+    "tags": [ "comida", "ostras", "vidro", "metal", "luxo" ]
+  },
+  {
+    "nome": "Natureza-morta com Jarra de Damascos",
+    "descrição": "Uma pintura simples e íntima que demonstra a maestria de Chardin em texturas, luz suave e representação da vida cotidiana do século XVIII.",
+    "autoria": "Jean-Baptiste-Siméon Chardin, '1758'",
+    "link": "https://en.wikipedia.org/wiki/Jean_Simeon_Chardin",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Chardin_Jar_of_Apricots.jpg",
+    "tags": [ "frutas", "damascos", "simplicidade", "iluminação", "vidro" ]
+  },
+  {
+    "nome": "Natureza-morta com um Ewer de Prata",
+    "descrição": "Um exemplo suntuoso de pronkstilleven holandês, caracterizado por objetos exóticos e preciosos, como taças chinesas, eweres de prata e frutas importadas, refletindo a opulência da era.",
+    "autoria": "Willem Kalf, '1655'",
+    "link": "https://en.wikipedia.org/wiki/Willem_Kalf",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Willem_Kalf_-_Still_Life_with_a_Silver_Ewer_-_Google_Art_Project.jpg/800px-Willem_Kalf_-_Still_Life_with_a_Silver_Ewer_-_Google_Art_Project.jpg",
+    "tags": [ "luxo", "prata", "vidro", "opulência", "pronkstilleven" ]
+  },
+  {
+    "nome": "Natureza-morta com Pássaro e Frutas",
+    "descrição": "Uma das poucas naturezas mortas sobreviventes da artista renascentista, notável pelo seu arranjo simétrico e atenção meticulosa aos detalhes das frutas e do inseto.",
+    "autoria": "Fede Galizia, '1602'",
+    "link": "https://en.wikipedia.org/wiki/Fede_Galizia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fede_Galizia_-_Still_Life_with_Peaches%2C_Quinces_and_Red_Beetles_-_Google_Art_Project.jpg/800px-Fede_Galizia_-_Still_Life_with_Peaches%2C_Quinces_and_Red_Beetles_-_Google_Art_Project.jpg",
+    "tags": [ "frutas", "pêssegos", "inseto", "renascimento", "simetria" ]
+  },
+  {
+    "nome": "Peixe na Praia",
+    "descrição": "Um vibrante e detalhado retrato de peixes e frutos do mar após a pesca, comum na tradição holandesa de natureza morta especializada em vida marinha.",
+    "autoria": "Abraham van Beyeren, '1668'",
+    "link": "https://en.wikipedia.org/wiki/Abraham_van_Beyeren",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Abraham_van_Beyeren_-_Fish_on_the_Beach_-_WGA1997.jpg",
+    "tags": [ "peixe", "marinha", "praia", "vida marinha", "barroco" ]
+  },
+  {
+    "nome": "Natureza-morta com Cadeira de Palha",
+    "descrição": "Uma obra seminal do Cubismo Sintético, integrando colagem (o pedaço de tecido de cadeira de palha) e trompe-l'oeil, desafiando a representação tradicional do espaço.",
+    "autoria": "Pablo Picasso, '1912'",
+    "link": "https://en.wikipedia.org/wiki/Still_Life_with_Chair_Caning",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/2/29/Picasso_-_Still_Life_with_Chair_Caning.jpg",
+    "tags": [ "cubismo", "colagem", "picasso", "abstração", "geométrico" ]
+  },
+  {
+    "nome": "Natureza-morta com Oranges",
+    "descrição": "Uma pintura fauvista que utiliza cores não naturalistas e fortes contornos pretos para criar um impacto visual imediato, focando na vibração e expressividade da cor.",
+    "autoria": "Henri Matisse, '1912'",
+    "link": "https://en.wikipedia.org/wiki/Henri_Matisse",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/e/e0/Matisse_Still_Life_with_Oranges.jpg",
+    "tags": [ "laranjas", "fauvismo", "matisse", "cor vibrante", "expressivo" ]
+  },
+  {
+    "nome": "Cálice de Frutas e Copo",
+    "descrição": "Exemplo importante do Cubismo Analítico, onde Braque fragmenta e reconstrói os objetos (frutas, copo) em múltiplas perspectivas simultâneas, usando uma paleta de cores sóbria.",
+    "autoria": "Georges Braque, '1911'",
+    "link": "https://en.wikipedia.org/wiki/Georges_Braque",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/b/b3/Braque_Fruit_Dish_and_Glass.jpg",
+    "tags": [ "cubismo analítico", "frutas", "copo", "fragmentação", "monocromático" ]
+  },
+  {
+    "nome": "Natureza-morta com Flores e Copos de Ouro",
+    "descrição": "Uma das primeiras naturezas mortas conhecidas de uma artista mulher flamenga, celebrando o virtuosismo na representação de texturas, especialmente metal e flores.",
+    "autoria": "Clara Peeters, '1612'",
+    "link": "https://en.wikipedia.org/wiki/Clara_Peeters",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clara_Peeters_-_Still_Life_with_Flowers_and_Gold_Cups_-_WGA17145.jpg/800px-Clara_Peeters_-_Still_Life_with_Flowers_and_Gold_Cups_-_WGA17145.jpg",
+    "tags": [ "flores", "copos de ouro", "joias", "arte flamenga", "opulência" ]
+  },
+  {
+    "nome": "Natureza-morta com Pêras",
+    "descrição": "Pintura que reflete a obsessão de Degas por arranjos simples, mas expressivos, destacando o uso incomum de pastel para uma natureza morta com um forte contraste de luz.",
+    "autoria": "Edgar Degas, '1883'",
+    "link": "https://en.wikipedia.org/wiki/Edgar_Degas",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Edgar_Degas_-_Pears.jpg/800px-Edgar_Degas_-_Pears.jpg",
+    "tags": [ "frutas", "pêras", "pastel", "impressionismo", "simplicidade" ]
+  },
+  {
+    "nome": "Vaso de Flores",
+    "descrição": "Uma obra chave do Simbolismo, caracterizada pelo uso de cores sonhadoras e tons pastel, transformando um arranjo floral em uma visão de fantasia e misticismo.",
+    "autoria": "Odilon Redon, '1900'",
+    "link": "https://en.wikipedia.org/wiki/Odilon_Redon",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Vase_of_Flowers_by_Odilon_Redon.jpg/800px-Vase_of_Flowers_by_Odilon_Redon.jpg",
+    "tags": [ "flores", "simbolismo", "pastel", "fantasia", "vaso" ]
+  },
+  {
+    "nome": "Íris Negra III",
+    "descrição": "Uma representação em close-up de uma flor, transformando o objeto natural em uma forma quase abstrata e monumental, característico da arte modernista americana.",
+    "autoria": "Georgia O'Keeffe, '1926'",
+    "link": "https://en.wikipedia.org/wiki/Black_Iris_III",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/5/52/O%27Keeffe_Black_Iris_III.jpg",
+    "tags": [ "flores", "íris", "abstrato", "modernismo", "close-up" ]
+  },
+  {
+    "nome": "Natureza-morta com Papagaio e Frutas",
+    "descrição": "Uma natureza morta tardia de Kahlo, repleta de frutas tropicais e simbolismo mexicano, refletindo temas de fertilidade, vida e sua identidade cultural.",
+    "autoria": "Frida Kahlo, '1951'",
+    "link": "https://en.wikipedia.org/wiki/Frida_Kahlo",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/9/99/Still_Life_with_Parrot_and_Fruit%2C_Frida_Kahlo%2C_1951.jpg",
+    "tags": [ "frutas tropicais", "papagaio", "simbolismo", "méxico", "realismo mágico" ]
+  },
+  {
+    "nome": "Natureza-morta com Bules e Garrafas",
+    "descrição": "Uma pintura característica de Morandi, que dedicou sua carreira à representação de garrafas e objetos de cozinha, explorando a cor sutil e as relações espaciais entre formas simples.",
+    "autoria": "Giorgio Morandi, '1940'",
+    "link": "https://en.wikipedia.org/wiki/Giorgio_Morandi",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/7/7b/Giorgio_Morandi_Natura_Morta_1940.jpg",
+    "tags": [ "garrafas", "objetos domésticos", "bules", "minimalismo", "cor sutil" ]
+  },
+  {
+    "nome": "Natureza-morta com Frutas e Caça",
+    "descrição": "Uma grande e dramática peça barroca flamenga, conhecida pela sua abundância e exuberância, combinando frutas maduras e aves de caça mortas.",
+    "autoria": "Frans Snyders, '1614'",
+    "link": "https://en.wikipedia.org/wiki/Frans_Snyders",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Frans_Snyders_-_Still_Life_with_Fruit_and_Game.jpg",
+    "tags": [ "caça", "frutas", "barroco flamengo", "abundância", "exuberância" ]
+  },
+  {
+    "nome": "Cálice Romer e Cachimbo",
+    "descrição": "Um exemplo clássico de natureza morta do 'banquete simples', onde a luz incide sobre poucos objetos comuns, como o copo de vinho Romer e um cachimbo, sugerindo moderação e passagem do tempo.",
+    "autoria": "Pieter Claesz, '1644'",
+    "link": "https://en.wikipedia.org/wiki/Pieter_Claesz",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Pieter_Claesz_-_Still_Life_with_a_Romer%2C_a_Pipe%2C_and_a_Tobacco_Pouch_-_WGA05001.jpg/800px-Pieter_Claesz_-_Still_Life_with_a_Romer%2C_a_Pipe%2C_and_a_Tobacco_Pouch_-_WGA05001.jpg",
+    "tags": [ "vidro", "tabaco", "ontbijtje", "barroco", "simplicidade" ]
+  },
+  {
+    "nome": "Natureza-morta com um Coelho Morto e Aves de Caça",
+    "descrição": "Uma peça de caça barroca tardia, onde a habilidade do artista reside em retratar a textura da pele e das penas, muitas vezes colocadas em um ambiente de paisagem.",
+    "autoria": "Jan Weenix, '1700'",
+    "link": "https://en.wikipedia.org/wiki/Jan_Weenix",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jan_Weenix_-_Still_Life_with_Dead_Hare_and_Other_Game.jpg",
+    "tags": [ "caça", "coelho", "aves", "barroco", "textura" ]
+  },
+  {
+    "nome": "Flores em Vaso de Vidro",
+    "descrição": "Um exemplo exuberante de natureza morta floral holandesa, com uma vasta variedade de espécies de flores, muitas vezes simbolizando a efemeridade da beleza.",
+    "autoria": "Jan van Huysum, '1720'",
+    "link": "https://en.wikipedia.org/wiki/Jan_van_Huysum",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jan_van_Huysum_-_Flowers_in_a_Glass_Vase_-_Google_Art_Project.jpg",
+    "tags": [ "flores", "vaso", "efemeridade", "cores", "rocaí" ]
+  },
+  {
+    "nome": "Natureza-morta com Ostras, Doces e Biscoitos Secos",
+    "descrição": "Uma das primeiras representações de uma mesa de 'banquete' flamenga, organizada como uma vista de cima, destacando iguarias luxuosas e taças de vinho.",
+    "autoria": "Osias Beert the Elder, '1620'",
+    "link": "https://en.wikipedia.org/wiki/Osias_Beert",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Osias_Beert_the_Elder_-_Still_Life_with_Oysters%2C_Sweets_and_Dry_Biscuits.jpg",
+    "tags": [ "ostras", "doces", "vidro", "banquete", "flandres" ]
+  },
+  {
+    "nome": "Natureza-morta: O Jarro Azul",
+    "descrição": "Pintura moderna que explora a pureza da forma e a vibração da cor através de um arranjo simples de um jarro de cerâmica azul e frutas, refletindo as influências cubistas e fauvistas.",
+    "autoria": "Henri Hayden, '1919'",
+    "link": "https://en.wikipedia.org/wiki/Henri_Hayden",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Henri_Hayden%2C_Still_Life%2C_The_Blue_Jar%2C_1919.jpg/800px-Henri_Hayden%2C_Still_Life%2C_The_Blue_Jar%2C_1919.jpg",
+    "tags": [ "jarro", "azul", "frutas", "modernismo", "pós-cubismo" ]
+  }
+]
